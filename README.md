@@ -9,7 +9,7 @@ Este projeto foi feito seguindo aulas rocketseat <br/>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-celulares">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 
 
 </p>
 
@@ -18,10 +18,10 @@ Este projeto foi feito seguindo aulas rocketseat <br/>
   <img alt="Projeto site trabalhos" src=".github/desk.gif" width="100%">
 </p>
 
-<p aling="left">
-<img alt="Projeto site trabalhos" src=".github/cel.png" width="20%">
-</p>
 
+## Também para Celulares📱
+
+<img alt="Projeto site trabalhos" src=".github/cel.png" width="20%">
 
 ## 🚀 Tecnologias
 
